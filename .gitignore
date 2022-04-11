@@ -5,3 +5,4 @@ vars.env
 **/*.key
 **/*.crt
 **/*.pem
+!/raddb/certs
