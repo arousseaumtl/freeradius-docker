@@ -2,11 +2,6 @@
 .AppleDouble
 .LSOverride
 vars.env
-raddb/certs/*
-raddb/certs/issued/*
-raddb/certs/private/*
-!.gitignore
-!raddb/certs/.gitkeep
-!raddb/certs/private/.gitkeep
-!raddb/certs/issued/.gitkeep
-!raddb/.gitkeep
+**/*.key
+**/*.crt
+**/*.pem
