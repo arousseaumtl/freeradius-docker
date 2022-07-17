@@ -24,7 +24,7 @@ This FreeRADIUS server package has been pre-configured to provide authentication
     - SERVER_CERT_FILE=*server certificate file name*
     - CA_CERT_FILE=*ca certificate file name*
 
-3. Build the server contianer:
+3. Build the server container:
 
         ./run.sh -b
 
