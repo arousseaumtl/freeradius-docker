@@ -8,7 +8,7 @@ There are many implementations of RADIUS, commercial and opensource. FreeRADIUS 
 
 ## USAGE
 
-This FreeRADIUS server package has been pre-configured to provide authentication via EAP-TLS authentication via certificates.
+This FreeRADIUS server package has been pre-configured to provide EAP-TLS authentication via certificates.
 
 1. Place the following certificate file types in the raddb/certs folder:
 
