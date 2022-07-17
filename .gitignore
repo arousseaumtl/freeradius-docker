@@ -1,8 +1,11 @@
+_pycache__
+env.list
+vars.env
+*.py[cod]
 .DS_Store
 .AppleDouble
 .LSOverride
-vars.env
-**/*.key
-**/*.crt
-**/*.pem
-!/raddb/certs
+.vscode
+*.crt
+*.key
+*.pem
