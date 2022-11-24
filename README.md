@@ -26,12 +26,12 @@ This FreeRADIUS server package has been pre-configured to provide EAP-TLS authen
 
 3. Build the server container:
 
-        ./run.sh -b
+        ./run.sh --build
 
 4. Run the container:
 
     Local:
 
-        ./run.sh -r
+        ./run.sh --run
 
     or run the container on the platform of your choice.
